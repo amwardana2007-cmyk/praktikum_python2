@@ -1,26 +1,26 @@
-4.1 membuat folder proyek
-<img width="891" height="264" alt="image" src="https://github.com/user-attachments/assets/4e52a871-d576-49da-8fe6-350ab630846e" />
+<img width="934" height="632" alt="image" src="https://github.com/user-attachments/assets/bd26b555-cac7-4f2c-ac74-b9cb56971dc8" />4.1 membuat folder proyek
+<img width="929" height="264" alt="image" src="https://github.com/user-attachments/assets/91dac413-62e2-4811-81c2-0ed9b503f761" />
 4.2 hasil run pada kode
-<img width="891" height="153" alt="image" src="https://github.com/user-attachments/assets/667936b8-4912-40cf-8f7c-d01d0a14a70b" />
+<img width="929" height="153" alt="image" src="https://github.com/user-attachments/assets/ce9c025c-938f-41f8-aa1e-2b119d605416" />
 4.3 mengganti isi buku.py dengan versi memakai konstruktor
-<img width="891" height="270" alt="image" src="https://github.com/user-attachments/assets/5f9f7c30-16ee-4fca-9c73-7aad0b3a7df9" />
+<img width="929" height="270" alt="image" src="https://github.com/user-attachments/assets/783fc7b9-4da7-46d2-8461-9beb40d8f082" />
 4.4 menambahkan kode dibawah kelas buku
-<img width="891" height="401" alt="image" src="https://github.com/user-attachments/assets/8a6cf4b5-0c81-4250-a2b7-c6739122a2b6" />
+<img width="929" height="401" alt="image" src="https://github.com/user-attachments/assets/cfed5a7f-d16b-4d81-acd8-175577e0d1d7" />
 hasil keluaran
-<img width="892" height="203" alt="image" src="https://github.com/user-attachments/assets/952a5fb8-a329-44a4-8449-06f0f7b96505" />
+<img width="934" height="203" alt="image" src="https://github.com/user-attachments/assets/c4c81b56-5649-4ec3-9622-b42e76badeb9" />
 4.5 mengunggah ke github
-<img width="661" height="570" alt="image" src="https://github.com/user-attachments/assets/68ebbb11-9440-42bb-bfe6-36ac9ffb6ed6" />
+<img width="934" height="632" alt="image" src="https://github.com/user-attachments/assets/d946cf1e-10a4-4bd6-85d9-59be17f709d3" />
 
 TUGAS MANDIRI
 1. tambahkan atribut tahun_terbit pada kelas Buku tampilkan di info()
-   <img width="934" height="515" alt="image" src="https://github.com/user-attachments/assets/ad6a43e4-66a7-4526-b3fc-1a92d12a0afa" />
+   <img width="934" height="515" alt="image" src="https://github.com/user-attachments/assets/214a7918-672d-4b68-a05d-61bba102c717" />
    hasil run pada kode:
-   <img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/683e63eb-aa7f-4af2-a1c9-1e0b4e5399c8" />
+   <img width="940" height="544" alt="image" src="https://github.com/user-attachments/assets/72b9f9d9-6d9b-42c9-919f-2d7edad61e40" />
 2. Berikan nilai default "Tidak diketahui" untuk penulis pada konstruktor, lalu buat satu objek tanpa mengisi penulis.
    menjalankan perintah git push origin:
-   <img width="904" height="212" alt="image" src="https://github.com/user-attachments/assets/da6ad754-26dc-4792-b77c-a738fce329c5" />
+   <img width="904" height="212" alt="image" src="https://github.com/user-attachments/assets/62174dd9-b97b-4095-bfe2-8e47afdca51d" />
    menjalankan perintah pytho buku.py:
-   <img width="904" height="324" alt="image" src="https://github.com/user-attachments/assets/0aea1eeb-a1aa-4cda-81bd-a21752f05add" />
+   <img width="904" height="324" alt="image" src="https://github.com/user-attachments/assets/6ce5836f-6aa4-44d7-ab55-f1dab778a42f" />
 3. Simpan perubahan sebagai commit baru dengan pesan yang jelas, lalu push kembali ke GitHub.
    - Fungsi Konstruktor (__init__): Konstruktor adalah metode spesial (__init__) yang dijalankan secara otomatis ketika sebuah objek dibuat dari suatu kelas. Fungsinya adalah untuk menginisialisasi atau mengisi nilai awal atribut milik objek tersebut.
    - Fungsi self: Kata kunci self merepresentasikan atau merujuk pada objek spesifik yang sedang dibuat atau dipanggil metodenya. Penggunaan self memastikan bahwa atribut dan metode terikat secara tepat pada masing-masing instance objek yang bersangkutan.
